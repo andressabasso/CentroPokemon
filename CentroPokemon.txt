@@ -1,0 +1,30 @@
+let primeiroPokemon = "Poochyena"
+let pokemonSexo= "M"
+let nivelPokemon=  2
+let pontosDeVidaPokemon= 13
+console.log (primeiroPokemon + " Cadastrado com sucesso")
+
+
+segundoPokemon="Zigzagoon"
+pokemonSexo= "F"
+nivelPookemon=2
+pontosDeVidaPokemon = 13
+console.log (segundoPokemon + " Cadastrado com sucesso")
+
+terceiroPokemon = "Dragonite"
+pokemonSexo= "M"
+nivelPokemon= 5
+pontosDeVidaPokemon= 25
+console.log (terceiroPokemon + " Cadastrado com sucesso")
+
+quartoPokemon= "Dragonite"
+pokemonSexo="F"
+nivelPokemon= 5
+pontosDeVidaPokemon= 24
+console.log (quartoPokemon + " Cadastrado com sucesso")
+
+quintoPokemon= "Wurmple"
+pokemonSexo= "M"
+nivelPokemon= 2
+pontosDeVidaPokemon = 7
+console.log (quintoPokemon + " Cadastrado com sucesso")
